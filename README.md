@@ -1,6 +1,6 @@
 # hangman-py
 
--> This is the output of a example game
+-> This is the output of an example game
 
 ![hangman](https://github.com/agamairi/hangman-py/assets/75530266/50bca140-b3a1-4816-9066-dd16d352121e)
 
